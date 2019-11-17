@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572960032735.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2466384684",
+    "id" : "CCEB0E7A",
+    "lastKnownWriteTime" : 1572894284,
+    "last_content_update" : 1572894284,
+    "path" : "~/carto/Votaciones.csv",
+    "project_path" : "Votaciones.csv",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

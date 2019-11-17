@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572960006588.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "209016370",
+    "id" : "102BDC4F",
+    "lastKnownWriteTime" : 1572894328,
+    "last_content_update" : 1572894328,
+    "path" : "~/carto/script_1.R",
+    "project_path" : "script_1.R",
+    "properties" : {
+        "cursorPosition" : "27,41",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
